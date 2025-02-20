@@ -1,0 +1,48 @@
+
+.aicolumns-u4i0gy-1024107302 > div {
+  display: flex; /* Ensure elements are side by side */
+  flex-direction: row; /* Horizontal layout for the block */
+  justify-content: space-between; /* Add space between the text content and the logo */
+  align-items: flex-start; /* Align items to the top */
+  gap: 100px; /* Increase spacing between columns */
+}
+
+.aicolumns-u4i0gy-1024107302 > div > div:first-child {
+  flex: 1; /* Allow the left content to take up available space */
+}
+
+.aicolumns-u4i0gy-1024107302 > div > .aicolumns-u4i0gy-1024107302-img-col {
+  flex-shrink: 0; /* Prevent the logo container from shrinking */
+  text-align: right; /* Align the logo to the right */
+  margin-top: -10px; /* Align the logo with the top of the text content */
+}
+
+.aicolumns-u4i0gy-1024107302 > div > .aicolumns-u4i0gy-1024107302-img-col img {
+  max-width: 190px; /* Adjust the logo width */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.aicolumns-u4i0gy-1024107302 ul {
+  list-style: none; /* Remove bullet points */
+  padding: 0; /* Remove default padding */
+  margin: 0; /* Remove default margin */
+}
+
+.aicolumns-u4i0gy-1024107302 ul li {
+  margin-bottom: 0px; /* Tighten vertical spacing between list items */
+}
+
+.aicolumns-u4i0gy-1024107302 p a {
+  display: inline-block; /* Ensure links are block-like elements */
+  margin-right: 15px; /* Reduce spacing between the links */
+}
+
+.aicolumns-u4i0gy-1024107302 h3 {
+  font-weight: bold; /* Ensure the title is bold */
+  margin-bottom: 5px; /* Adjust spacing below the title */
+}
+
+.aicolumns-u4i0gy-1024107302-wrapper {
+  background-color: #f5f5f5; /* Light gray background */
+  padding: 20px; /* Add padding around the block */
+}
