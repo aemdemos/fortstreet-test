@@ -1,0 +1,57 @@
+
+.aicolumns-u4i0gy-2074294274 > div {
+  display: flex;
+  flex-direction: row; /* Ensure cards are displayed side by side */
+  flex-wrap: wrap; /* Allow wrapping for smaller screens */
+  gap: 16px; /* Add consistent spacing between cards */
+  justify-content: space-between; /* Distribute cards evenly */
+  align-items: flex-start; /* Align items to the top */
+}
+
+.aicolumns-u4i0gy-2074294274 > div > div {
+  flex: 1 1 calc(33.33% - 16px); /* Ensure each card takes up one-third of the row */
+  background-color: #f4f4f4; /* Light gray background for each card */
+  border: 1px solid #ddd; /* Add subtle border for separation */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add subtle shadow for depth */
+  display: flex;
+  flex-direction: column; /* Ensure content stacks vertically inside cards */
+  margin: 0; /* Remove unnecessary margin */
+  padding: 0; /* Remove padding to align content properly */
+}
+
+.aicolumns-u4i0gy-2074294274 > div > div > p:first-of-type {
+  margin: 0; /* Remove default margins around the image container */
+}
+
+.aicolumns-u4i0gy-2074294274 > div > div > p:first-of-type picture,
+.aicolumns-u4i0gy-2074294274 > div > div > p:first-of-type img {
+  width: 100%; /* Ensure images span the full width of the card */
+  height: auto; /* Maintain aspect ratio */
+  display: block; /* Ensure the image is displayed as a block element */
+}
+
+.aicolumns-u4i0gy-2074294274 > div > div > h3 {
+  font-family: var(--heading-font-family); /* Use the correct heading font */
+  font-size: 1.2rem; /* Slightly larger font for titles */
+  font-weight: bold; /* Make titles bold */
+  margin: 16px 16px 8px; /* Add spacing above and below the title */
+}
+
+.aicolumns-u4i0gy-2074294274 > div > div > p {
+  margin: 8px 16px; /* Add consistent spacing for text content */
+}
+
+.aicolumns-u4i0gy-2074294274 > div > div > p:last-of-type {
+  margin-bottom: 16px; /* Add spacing below the last paragraph */
+}
+
+@media (max-width: 768px) {
+  .aicolumns-u4i0gy-2074294274 > div {
+    flex-direction: column; /* Stack cards vertically on smaller screens */
+    gap: 16px; /* Ensure proper spacing between stacked cards */
+  }
+
+  .aicolumns-u4i0gy-2074294274 > div > div {
+    flex: 1 1 100%; /* Ensure cards take up full width on smaller screens */
+  }
+}
