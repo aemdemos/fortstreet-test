@@ -1,0 +1,35 @@
+
+.aicolumns-u4i0gy-519531666-wrapper > .aicolumns-u4i0gy-519531666 > div {
+  display: flex;
+  flex-direction: row; /* Ensures the image and text sections are side by side */
+  align-items: flex-start; /* Aligns the image and text at the top */
+  gap: 20px; /* Adds spacing between the two sections */
+}
+
+.aicolumns-u4i0gy-519531666-wrapper > .aicolumns-u4i0gy-519531666 > div > div:nth-child(1) {
+  flex: 0 0 120px; /* Sets a fixed width for the image section */
+  display: flex;
+  justify-content: center; /* Centers the image horizontally within its container */
+  align-items: flex-start; /* Aligns the image to the top */
+}
+
+.aicolumns-u4i0gy-519531666-wrapper > .aicolumns-u4i0gy-519531666 > div > div:nth-child(2) {
+  flex: 1; /* Allows the text section to take up the remaining space */
+  display: flex;
+  flex-direction: column; /* Stacks the text lines vertically */
+  justify-content: flex-start; /* Aligns text content to the top */
+  text-align: left; /* Ensures the text is aligned to the left */
+  gap: 10px; /* Adds consistent spacing between text lines */
+}
+
+.aicolumns-u4i0gy-519531666-wrapper > .aicolumns-u4i0gy-519531666 > div > div:nth-child(2) p {
+  margin: 0; /* Removes default paragraph margins */
+}
+
+@media (min-width: 900px) {
+  .aicolumns-u4i0gy-519531666-wrapper > .aicolumns-u4i0gy-519531666 > div {
+    flex-direction: row; /* Maintains the side-by-side layout on larger screens */
+    align-items: flex-start; /* Keeps the image and text aligned at the top */
+    gap: 24px; /* Adds more spacing for wider viewports */
+  }
+}
