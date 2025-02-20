@@ -26,7 +26,7 @@
   margin: 0; /* Removes default paragraph margins */
 }
 
-@media (min-width: 900px) {
+@media (width >= 900px) {
   .aicolumns-u4i0gy-519531666-wrapper > .aicolumns-u4i0gy-519531666 > div {
     flex-direction: row; /* Maintains the side-by-side layout on larger screens */
     align-items: flex-start; /* Keeps the image and text aligned at the top */
