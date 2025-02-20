@@ -1,8 +1,7 @@
 
 .aicards-u4i0gy-95299458-wrapper > .aicards-u4i0gy-95299458 {
   display: flex; /* Use flexbox for the main container */
-  flex-direction: row; /* Ensure cards are side by side */
-  flex-wrap: wrap; /* Allow wrapping for responsiveness */
+  flex-flow: row wrap; /* Ensure cards are side by side */ /* Allow wrapping for responsiveness */
   gap: 16px; /* Space between cards */
   margin: 0; /* Reset margins */
   padding: 0; /* Reset padding */
@@ -10,8 +9,7 @@
 
 .aicards-u4i0gy-95299458-wrapper > .aicards-u4i0gy-95299458 > ul {
   display: flex; /* Use flexbox for the grid layout */
-  flex-direction: row; /* Ensure cards are arranged side by side */
-  flex-wrap: wrap; /* Allow wrapping for responsiveness */
+  flex-flow: row wrap; /* Ensure cards are arranged side by side */ /* Allow wrapping for responsiveness */
   gap: 16px; /* Space between cards */
   list-style: none; /* Remove default list styling */
   margin: 0; /* Reset margins */
@@ -21,7 +19,7 @@
 .aicards-u4i0gy-95299458-wrapper > .aicards-u4i0gy-95299458 > ul > li {
   background-color: #001a57; /* Dark blue background */
   border: none; /* Remove borders */
-  color: #ffffff; /* White text */
+  color: #fff; /* White text */
   flex: 1 1 calc(25% - 16px); /* Ensure 4 cards per row with spacing */
   max-width: calc(25% - 16px); /* Limit width of each card */
   box-sizing: border-box; /* Include padding and border in size */
@@ -40,13 +38,13 @@
 }
 
 .aicards-u4i0gy-95299458-wrapper > .aicards-u4i0gy-95299458 > ul > li h2 {
-  color: #ffffff; /* White text for titles */
+  color: #fff; /* White text for titles */
   font-weight: bold; /* Make titles bold */
   margin: 0; /* Remove default margin */
 }
 
 .aicards-u4i0gy-95299458-wrapper > .aicards-u4i0gy-95299458 > ul > li p {
-  color: #ffffff; /* White text for descriptions */
+  color: #fff; /* White text for descriptions */
   margin: 0; /* Remove default margin */
   line-height: 1.5; /* Improve readability */
 }
@@ -56,7 +54,7 @@
   background: none; /* Remove button background */
   border: none; /* Remove button border */
   padding: 0; /* Remove button padding */
-  color: #ffffff; /* White text for links */
+  color: #fff; /* White text for links */
   text-decoration: none; /* Remove underline */
   font-weight: normal; /* Remove boldness */
 }
@@ -72,14 +70,14 @@
   padding: 32px; /* Add padding around the entire block */
 }
 
-@media (max-width: 768px) {
+@media (width <= 768px) {
   .aicards-u4i0gy-95299458-wrapper > .aicards-u4i0gy-95299458 > ul > li {
     flex: 1 1 calc(50% - 16px); /* Ensure 2 cards per row on tablets */
     max-width: calc(50% - 16px); /* Limit width */
   }
 }
 
-@media (max-width: 480px) {
+@media (width <= 480px) {
   .aicards-u4i0gy-95299458-wrapper > .aicards-u4i0gy-95299458 > ul > li {
     flex: 1 1 100%; /* Ensure 1 card per row on small screens */
     max-width: 100%; /* Limit width */
