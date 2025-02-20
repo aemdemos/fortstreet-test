@@ -1,0 +1,348 @@
+{
+  "originUrl": "https://fortstreet-p.schools.nsw.gov.au/",
+  "urls": [
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/school-planning-and-reporting.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/location-and-transport.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/school-planning-and-reporting.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/enrolment.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/school-planning-and-reporting.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/financial-contributions-and-assistance.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/school-planning-and-reporting.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/our-staff.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/school-planning-and-reporting.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/rules-and-policies.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/school-planning-and-reporting.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/classes.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/school-planning-and-reporting.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/our-proud-history.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/school-planning-and-reporting.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/welcome-to-kindergarten.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/school-planning-and-reporting.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/welcome-to-kindergarten/kindergarten-information.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/parent-testimonials.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/school-planning-and-reporting.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/payment-sentral.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/school-planning-and-reporting.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/vision-and-values.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/school-planning-and-reporting.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/student-health-and-safety.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/student-health-and-safety/school-counselling-service.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/help-with-homework.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/student-health-and-safety.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/help-with-homework/homework-tips-for-primary-school.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/help-with-homework/homework-tips-for-primary-school/helping-with-english-and-literacy.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/help-with-homework/homework-tips-for-primary-school/helping-with-maths-and-numeracy.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/help-with-homework/homework-tips-for-primary-school/helping-with-english-and-literacy.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/parents--carers-and-the-community.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/student-health-and-safety.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/parents--carers-and-the-community/primary-school-routines.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/inclusive-learning-support.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/student-health-and-safety.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/student-leadership.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/student-health-and-safety.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/student-wellbeing.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/student-health-and-safety.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/english.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/mathematics.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/english.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/science.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/english.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/human-society-and-its-environment.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/english.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/creative-arts.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/english.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/personal-development-health-and-physical-education.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/english.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/library.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/english.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/extracurricularactivities.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/english.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/religion-and-ethics.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/english.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/oc-classes---selective-schools.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/english.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/explicit-learning.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school/english.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/gallery.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/news.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/news/2023.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/news/2023/5.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/news/2023/6.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/news/2023/5.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/news/2023/7.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/news/2023/5.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/news/2023/8.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/news/2023/5.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/news/2023/9.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/news/2023/5.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/news/2023/10.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/news/2023/5.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/news/2023/11.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/news/2023/5.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/news/2023/12.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/news/2023/5.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/news/2024.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/news/2023.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/news/2024/2.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/news/2023/5.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/news/2024/4.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/news/2023/5.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/news/2024/5.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/news/2023/5.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/news/2024/7.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/news/2023/5.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/news/2024/8.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/news/2023/5.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/news/2024/10.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/news/2023/5.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/contact-us.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/newsletter.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/for-parents.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/for-parents/outofhourscare.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/for-parents/pandc.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/for-parents/outofhourscare.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/for-parents/uniforms---canteen.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/for-parents/outofhourscare.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/for-parents/wellbeing.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/for-parents/outofhourscare.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/for-parents/translated-documents.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/for-parents/outofhourscare.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/for-parents/travel-access-guide--transport-.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/for-parents/outofhourscare.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/for-parents/payments.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/for-parents/outofhourscare.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/for-parents/fort-street-handy-hints.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/for-parents/outofhourscare.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/for-parents/new-student-information.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/for-parents/outofhourscare.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/for-parents/sentral-for-parents-app.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/for-parents/outofhourscare.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/for-parents/volunteering-at-the-school.html",
+      "representedBy": "https://fortstreet-p.schools.nsw.gov.au/for-parents/outofhourscare.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/events.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/content/dam/doe/sws/schools/f/fortstreet-p/download-box/PersonalReadingLog_2022.pdf",
+      "source": "SITEMAPS"
+    }
+  ]
+}
