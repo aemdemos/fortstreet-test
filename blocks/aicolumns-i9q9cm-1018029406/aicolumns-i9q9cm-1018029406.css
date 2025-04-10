@@ -1,0 +1,42 @@
+
+.aicolumns-i9q9cm-1018029406 > div {
+  display: flex;
+  flex-direction: row; /* Ensure text and image are side by side */
+  align-items: flex-start; /* Align both sections to the top */
+  justify-content: space-between; /* Add space between text and image */
+  gap: 8px; /* Reduce spacing between the columns to match original */
+}
+
+.aicolumns-i9q9cm-1018029406 > div > div:first-child {
+  flex: 1; /* Allow the text block to occupy most of the width */
+  max-width: 72%; /* Adjust width to balance text and image */
+}
+
+.aicolumns-i9q9cm-1018029406 > div > .aicolumns-i9q9cm-1018029406-img-col {
+  flex-shrink: 0; /* Prevent image section from shrinking */
+  max-width: 10%; /* Reduce width of the image/logo for better proportion */
+  text-align: right; /* Align image/logo to the right */
+}
+
+.aicolumns-i9q9cm-1018029406 > div > .aicolumns-i9q9cm-1018029406-img-col img {
+  width: auto; /* Ensure natural image size */
+  max-width: 100%; /* Prevent image overflow */
+  height: auto; /* Maintain image aspect ratio */
+}
+
+.aicolumns-i9q9cm-1018029406 > div > div:first-child p a {
+  margin-right: 20px; /* Add spacing between inline links */
+}
+
+@media (max-width: 900px) {
+  .aicolumns-i9q9cm-1018029406 > div {
+    flex-direction: column; /* Stack items vertically on smaller screens */
+    align-items: center; /* Center align items */
+    gap: 16px; /* Reduce gap for smaller screens */
+  }
+
+  .aicolumns-i9q9cm-1018029406 > div > div:first-child,
+  .aicolumns-i9q9cm-1018029406 > div > .aicolumns-i9q9cm-1018029406-img-col {
+    max-width: 100%; /* Allow full width on smaller screens */
+  }
+}
