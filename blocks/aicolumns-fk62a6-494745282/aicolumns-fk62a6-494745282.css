@@ -1,0 +1,60 @@
+
+.aicolumns-fk62a6-494745282-wrapper > .aicolumns-fk62a6-494745282 > div {
+  display: flex;
+  flex-direction: row; /* Ensure sidebar and main content are side by side */
+  align-items: flex-start; /* Align items at the top */
+  gap: 20px; /* Adjust spacing between columns for better visual connection */
+}
+
+.aicolumns-fk62a6-494745282-wrapper > .aicolumns-fk62a6-494745282 > div > div:first-child {
+  flex: 0 0 25%; /* Sidebar occupies 25% of the width */
+  padding-right: 16px; /* Add padding to separate sidebar from main content */
+  border-right: 1px solid #ccc; /* Add a subtle separator between columns */
+}
+
+.aicolumns-fk62a6-494745282-wrapper > .aicolumns-fk62a6-494745282 > div > div:last-child {
+  flex: 1; /* Main content occupies the remaining width */
+  padding-left: 16px; /* Add padding to improve content spacing */
+}
+
+.aicolumns-fk62a6-494745282-wrapper img {
+  max-width: 100%; /* Ensure images fit within their container */
+  height: auto;
+  display: block; /* Prevent inline image spacing issues */
+  margin: 24px 0; /* Add consistent spacing above and below images */
+}
+
+.aicolumns-fk62a6-494745282-wrapper .button {
+  box-sizing: border-box;
+  display: inline-block;
+  margin: 24px 0; /* Increase spacing above and below buttons */
+  padding: 12px 24px; /* Adjust button size for better alignment */
+  background-color: var(--link-color); /* Ensure button matches the original color */
+  color: var(--background-color);
+  text-align: center;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.aicolumns-fk62a6-494745282-wrapper p {
+  margin: 24px 0; /* Increase spacing between paragraphs */
+}
+
+.aicolumns-fk62a6-494745282-wrapper > .aicolumns-fk62a6-494745282 > div > div:first-child h2 {
+  margin-bottom: 20px; /* Add spacing below the "Related Content" heading */
+}
+
+.aicolumns-fk62a6-494745282-wrapper > .aicolumns-fk62a6-494745282 > div > div:first-child ul {
+  margin-top: 16px; /* Ensure list items are spaced properly below the heading */
+}
+
+@media (max-width: 900px) {
+  .aicolumns-fk62a6-494745282-wrapper > .aicolumns-fk62a6-494745282 > div {
+    flex-direction: column; /* Stack sidebar and main content vertically on small screens */
+  }
+
+  .aicolumns-fk62a6-494745282-wrapper > .aicolumns-fk62a6-494745282 > div > div {
+    flex: unset; /* Remove width constraints for stacked layout */
+    padding: 0; /* Adjust padding for vertical stacking */
+  }
+}
