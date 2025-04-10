@@ -1,0 +1,50 @@
+
+.aicolumns-i9q9cm-494745282-wrapper > .aicolumns-i9q9cm-494745282 > div {
+  display: flex; /* Use flexbox for side-by-side layout */
+  flex-direction: row; /* Ensure horizontal alignment */
+  align-items: flex-start; /* Align tops of columns */
+  gap: 6px; /* Tighten spacing between columns */
+}
+
+.aicolumns-i9q9cm-494745282-wrapper > .aicolumns-i9q9cm-494745282 > div > div:first-child {
+  flex: 0 0 30%; /* Sidebar occupies exactly 30% of width */
+  background-color: var(--light-color); /* Light gray background for sidebar */
+  padding: 4px 8px; /* Compact sidebar padding */
+  margin: 0; /* Ensure no extra margin on the left */
+}
+
+.aicolumns-i9q9cm-494745282-wrapper > .aicolumns-i9q9cm-494745282 > div > div:last-child {
+  flex: 0 0 70%; /* Main content occupies 70% of width */
+  background-color: var(--background-color); /* White background for main content */
+  padding: 10px 15px; /* Adjust padding inside main content */
+}
+
+.aicolumns-i9q9cm-494745282-wrapper > .aicolumns-i9q9cm-494745282 > div > div:first-child h2,
+.aicolumns-i9q9cm-494745282-wrapper > .aicolumns-i9q9cm-494745282 > div > div:first-child h3 {
+  margin-bottom: 3px; /* Compact spacing below sidebar headings */
+}
+
+.aicolumns-i9q9cm-494745282-wrapper > .aicolumns-i9q9cm-494745282 > div > div:first-child ul {
+  margin: 0;
+  padding: 0;
+}
+
+.aicolumns-i9q9cm-494745282-wrapper > .aicolumns-i9q9cm-494745282 > div > div:first-child ul li {
+  margin-bottom: 1px; /* Reduce spacing between list items */
+}
+
+.aicolumns-i9q9cm-494745282-wrapper > .aicolumns-i9q9cm-494745282 > div > div:first-child ul ul {
+  margin-left: 4px; /* Slightly reduce indentation for nested lists */
+}
+
+@media (max-width: 768px) {
+  .aicolumns-i9q9cm-494745282-wrapper > .aicolumns-i9q9cm-494745282 > div {
+    flex-direction: column; /* Stack columns vertically on smaller screens */
+    gap: 8px; /* Maintain smaller spacing when stacked */
+  }
+
+  .aicolumns-i9q9cm-494745282-wrapper > .aicolumns-i9q9cm-494745282 > div > div:first-child,
+  .aicolumns-i9q9cm-494745282-wrapper > .aicolumns-i9q9cm-494745282 > div > div:last-child {
+    width: 100%; /* Full width for stacked layout */
+  }
+}
