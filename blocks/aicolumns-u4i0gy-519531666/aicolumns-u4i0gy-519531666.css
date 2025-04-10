@@ -1,0 +1,51 @@
+
+.aicolumns-u4i0gy-519531666-wrapper > .aicolumns-u4i0gy-519531666 {
+  display: flex; /* Use flexbox for side-by-side layout */
+  flex-direction: row; /* Align elements horizontally */
+  align-items: center; /* Vertically center both sections */
+  gap: 20px; /* Add space between the logo and text */
+}
+
+.aicolumns-u4i0gy-519531666 > div:first-child {
+  flex: 0 0 auto; /* Prevent the logo section from stretching */
+  display: flex; /* Ensure proper alignment */
+  justify-content: center;
+  align-items: center;
+}
+
+.aicolumns-u4i0gy-519531666 > div:nth-child(2) {
+  flex: 1; /* Allows the text section to take up remaining space */
+  display: flex; /* Use flexbox for vertical stacking */
+  flex-direction: column; /* Stack text elements vertically */
+  gap: 10px; /* Adds spacing between text lines */
+}
+
+.aicolumns-u4i0gy-519531666-wrapper > .aicolumns-u4i0gy-519531666 img {
+  max-width: 120px; /* Restrict the logo size */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.aicolumns-u4i0gy-519531666 > div:nth-child(2) p:first-child {
+  font-size: 26px; /* Larger bold title */
+  font-weight: bold;
+  margin: 0; /* Remove unnecessary margins */
+}
+
+.aicolumns-u4i0gy-519531666 > div:nth-child(2) p:nth-child(2),
+.aicolumns-u4i0gy-519531666 > div:nth-child(2) p:nth-child(3) {
+  font-size: 16px; /* Smaller text for subtitles and contact details */
+  margin: 0; /* Removes unnecessary margins */
+}
+
+.aicolumns-u4i0gy-519531666 > div:nth-child(2) p:nth-child(3) a {
+  color: var(--link-color); /* Apply default link color */
+  text-decoration: underline; /* Ensure link is clearly visible */
+}
+
+@media (max-width: 900px) {
+  .aicolumns-u4i0gy-519531666-wrapper > .aicolumns-u4i0gy-519531666 {
+    flex-direction: column; /* Stack logo and text vertically */
+    align-items: flex-start; /* Align content to the left */
+    gap: 10px; /* Adjust spacing for smaller screens */
+  }
+}
